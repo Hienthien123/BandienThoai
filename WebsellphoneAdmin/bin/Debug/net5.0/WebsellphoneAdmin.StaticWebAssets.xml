@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/AspNetCoreHero.ToastNotification" Path="C:\Users\HP PAVILION\.nuget\packages\aspnetcorehero.toastnotification\1.1.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Webapi" Path="E:\.net core API\Websellphone\Websellphone\Webapi\wwwroot\" />
+</StaticWebAssets>
